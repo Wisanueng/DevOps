@@ -1,0 +1,17 @@
+switch
+cisco business 350 series --- cbs350-24t-4g
+
+router 
+hp msr1003-8s ac router
+
+accesspoint
+tp-link archer ax10
+ax1500 wi-fi 6 router
+
+
+computer 4 เครื่อง
+server + dev
+
+
+
+
